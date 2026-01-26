@@ -1,32 +1,33 @@
 # Investr Support
 
-Welcome to the Investr support page. Here you can find answers to common questions and ways to contact us if you need help.
-
-## Frequently Asked Questions (FAQ)
-
-### What data does Investr use?
-Investr uses real-time and historical market data provided by Polygon.io. We strive to provide the most accurate data possible, but please verify with your brokerage before making trading decisions.
-
-### How does the DCF (Discounted Cash Flow) Calculator work?
-The DCF calculator takes financial inputs (like Free Cash Flow, Growth Rate, etc.) to estimate the intrinsic value of a stock.
-*   **Intrinsic Value**: The calculated "true" value of the stock based on its future cash flows.
-*   **Margin of Safety**: The difference between the current price and the intrinsic value.
-
-### Is my data safe?
-Yes. Investr does not create user accounts or store your data on external servers. All your preferences, watchlists, and progress are stored locally on your device.
-
-### Can I trade stocks in the app?
-No, Investr is an educational and analytical tool. It is designed to help you analyze stocks and learn about value investing, not to execute trades.
-
-### The app isn't loading data. What should I do?
-1.  Check your internet connection.
-2.  Ensure you have the latest version of the app installed.
-3.  Some data (like real-time prices) depends on market hours and availability.
+Welcome to the official support page for **Investr**. We are dedicated to providing you with the best experience in tracking stocks, analyzing financial data, and learning about the market.
 
 ## Contact Us
 
-If you have encountered a bug, have a feature request, or just want to say hi, please email us!
+If you have any questions, feedback, or need technical assistance, please reach out to our support team. We aim to respond to all inquiries within 24-48 hours.
 
-**Email**: scalier.foe-7h@icloud.com
+📧 **Email:** [scalier.foe-7h@icloud.com](mailto:scalier.foe-7h@icloud.com)
 
-We try to respond to all inquiries within 48 hours iA.
+---
+
+## Frequently Asked Questions (FAQ)
+
+### 1. Where does the stock data come from?
+We use **Financial Modeling Prep (FMP)** to provide real-time and historical stock market data. While we strive for accuracy, please note that there may be slight delays depending on the market and data provider.
+
+### 2. Do I need to create an account?
+No! Investr uses **Anonymous Authentication**. You can start using the app immediately without providing an email or phone number. Your watchlist and preferences are tied to your unique anonymous identifier.
+
+### 3. Why am I not receiving Stock Alerts?
+To receive price alerts, you must enable **Notifications** for Investr on your device.
+*   **iOS:** Go to Settings > Investr > Notifications > Allow Notifications.
+*   **Android:** Go to Settings > Apps > Investr > Notifications > Allow.
+
+### 4. How do I delete my data?
+Since we use anonymous authentication, data is linked to your current installation. If you uninstall the app or clear its data, your local watchlist and settings may be reset. For a complete data wipe request, please contact us via email with your User ID (found in Settings, if applicable/implemented).
+
+### 5. Can I recommend a new feature?
+Absolutely! We love hearing from our users. You can submit feedback directly within the app (Settings > Send Feedback) or email us at the address above.
+
+
+*Thank you for using Investr!*
